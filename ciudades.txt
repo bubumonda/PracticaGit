@@ -1,4 +1,8 @@
 Bucaramanga
+<<<<<<< HEAD
 Barrancabermeja
 
 Marruecos
+=======
+Bolabermeja
+>>>>>>> c1975fb22738d32ef0896144474bc2505fbf4077
